@@ -1,6 +1,4 @@
-### Hi there 👋
-
-BTC MIDIA SOFTWARE
+### BTC-MEDIA SOFTWARE
 
 
 <!--
